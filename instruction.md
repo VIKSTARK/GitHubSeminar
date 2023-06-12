@@ -31,3 +31,5 @@
 > *git checkout [branch_name]* – переход к другой ветке
 
 > **git merge --abort** – отменить слияние, которое прошло с конфликтом
+
+> *git checkout -b [branch_name]* - создание ветки и переход к ней
