@@ -41,3 +41,5 @@
 > *git log --oneline* – коротенький журнал
 
 > *git branch* – посмотреть список веток в репозитории
+
+> *git branch -d [branch_name]* – удалить ветку
